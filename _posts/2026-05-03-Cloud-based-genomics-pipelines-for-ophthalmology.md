@@ -1,4 +1,4 @@
-# Cloud-based genomics pipelines for ophthalmology
+# Cloud-based genomics pipelines for ophthalmology: Reviewed from research to clinical practice
 
 This review article describes the potentil of cloud computing to enable the clinical use of genomic data in eye care. For decades, researchers have been anticipating 
 genomics to revolutionize clinical practice, since identifying the genetic bases of diseases could greatly help in predicting and treating them. However, most of the 
@@ -20,3 +20,8 @@ The authors propose a workflow in which patient genomic data is analyzed in the 
 While the approach offers significant benefits in accessibility, challenges still remain. For example privacy, although providers like AWS and GCP already comply with strict security standards, the right to data erasure, which must be ensured especially when the data is stored in the cloud, and complex pricing models and unexpected costs.  
 
 In the future, cloud computing could allow genomic pipelines in non-specialist hospitals as well as global collaboration across hospitals, and is an essential tool for making large-scale genomic analysis practical, scalable, and clinically usable in ophthalmology. 
+
+
+## Reference
+
+Wong, David & Olivera, Maximiliano & Yu, Jing & Szabo, Anita & Moghul, Ismail & Balaskas, Konstantinos & Luben, Robert & Khawaja, Anthony & Pontikos, Nikolas & Keane, Pearse. (2021). Cloud-based genomics pipelines for ophthalmology: Reviewed from research to clinical practice. Modeling and Artificial Intelligence in Ophthalmology. 3. 101-140. 10.35119/maio.v3i1.115. 
